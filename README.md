@@ -1,2 +1,3 @@
 # DeepLearningInCV
-This code sets up and trains a convolutional neural network to categorise images as  "car" or "not car" as part of the lecture "Deep Learning in Computer Vision and Remote Sensing" of the Remote Sensing and Geoinformatics Master at the Karlsruhe Institute of Technology.
+This code sets up and trains a convolutional neural network to categorise images as "car" or "not car" as part of the lecture "Deep Learning in Computer Vision and Remote Sensing" of the Remote Sensing and Geoinformatics Master's programme at the Karlsruhe Institute of Technology. 
+The exercise was completed as a group project with excellent results. Additionally, I attempted to develop my own code, which is presented here. However, the initial results are not yet optimal due to an issue with the normalization process. In my spare time, I am working to enhance the code further and will upload the revised version once complete.
